@@ -4,6 +4,8 @@ body{
 .head-top{
     height: 30px;
     align-items: center;
+    padding-right:10%;
+    padding-left:10%;
     background-color: rgb(3, 3, 3);
     /* line-height: 0.8; */
     /* padding-top: 15px; */
